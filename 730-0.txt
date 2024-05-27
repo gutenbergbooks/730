@@ -134,27 +134,27 @@ pages, they would have possessed the inestimable merit of being the
 most concise and faithful specimen of biography, extant in the
 literature of any age or country.
 
-Although I am not disposed to maintain that the being born in a
-workhouse, is in itself the most fortunate and enviable circumstance
-that can possibly befall a human being, I do mean to say that in this
-particular instance, it was the best thing for Oliver Twist that could
-by possibility have occurred. The fact is, that there was considerable
+Although I am not disposed to maintain that being born in a workhouse,
+is in itself the most fortunate and enviable circumstance that can
+possibly befall a human being, I do mean to say that in this particular
+instance, it was the best thing for Oliver Twist that could by
+possibility have occurred. The fact is, that there was considerable
 difficulty in inducing Oliver to take upon himself the office of
 respiration,—a troublesome practice, but one which custom has rendered
-necessary to our easy existence; and for some time he lay gasping on a
-little flock mattress, rather unequally poised between this world and
-the next: the balance being decidedly in favour of the latter. Now, if,
-during this brief period, Oliver had been surrounded by careful
-grandmothers, anxious aunts, experienced nurses, and doctors of
-profound wisdom, he would most inevitably and indubitably have been
-killed in no time. There being nobody by, however, but a pauper old
-woman, who was rendered rather misty by an unwonted allowance of beer;
-and a parish surgeon who did such matters by contract; Oliver and
-Nature fought out the point between them. The result was, that, after a
-few struggles, Oliver breathed, sneezed, and proceeded to advertise to
-the inmates of the workhouse the fact of a new burden having been
-imposed upon the parish, by setting up as loud a cry as could
-reasonably have been expected from a male infant who had not been
+necessary to our easy existence; and for some time he lay gasping on
+a little flock mattress, rather unequally poised between this world
+and the next: the balance being decidedly in favour of the latter.
+Now, if, during this brief period, Oliver had been surrounded by
+careful grandmothers, anxious aunts, experienced nurses, and doctors
+of profound wisdom, he would most inevitably and indubitably have
+been killed in no time. There being nobody by, however, but a pauper
+old woman, who was rendered rather misty by an unwonted allowance of
+beer; and a parish surgeon who did such matters by contract; Oliver
+and Nature fought out the point between them. The result was, that,
+after a few struggles, Oliver breathed, sneezed, and proceeded to
+advertise to the inmates of the workhouse the fact of a new burden
+having been imposed upon the parish, by setting up as loud a cry as
+could reasonably have been expected from a male infant who had not been
 possessed of that very useful appendage, a voice, for a much longer
 space of time than three minutes and a quarter.
 
@@ -459,7 +459,7 @@ going away. It was no very difficult matter for the boy to call tears
 into his eyes. Hunger and recent ill-usage are great assistants if you
 want to cry; and Oliver cried very naturally indeed. Mrs. Mann gave him
 a thousand embraces, and what Oliver wanted a great deal more, a piece
-of bread and butter, less he should seem too hungry when he got to the
+of bread and butter, lest he should seem too hungry when he got to the
 workhouse. With the slice of bread in his hand, and the little
 brown-cloth parish cap on his head, Oliver was then led away by Mr.
 Bumble from the wretched home where one kind word or look had never
@@ -563,7 +563,7 @@ poor people should have the alternative (for they would compel nobody,
 not they), of being starved by a gradual process in the house, or by a
 quick one out of it. With this view, they contracted with the
 water-works to lay on an unlimited supply of water; and with a
-corn-factor to supply periodically small quantities of oatmeal; and
+corn-factory to supply periodically small quantities of oatmeal; and
 issued three meals of thin gruel a day, with an onion twice a week, and
 half a roll of Sundays. They made a great many other wise and humane
 regulations, having reference to the ladies, which it is not necessary
@@ -800,7 +800,7 @@ Limbkins. The board then proceeded to converse among themselves for a
 few minutes, but in so low a tone, that the words “saving of
 expenditure,” “looked well in the accounts,” “have a printed report
 published,” were alone audible. These only chanced to be heard, indeed,
-or account of their being very frequently repeated with great emphasis.
+on account of their being very frequently repeated with great emphasis.
 
 At length the whispering ceased; and the members of the board, having
 resumed their seats and their solemnity, Mr. Limbkins said:
@@ -2507,7 +2507,7 @@ left the country.”
 “Don’t fret your eyelids on that score,” said the young gentleman.
 “I’ve got to be in London tonight; and I know a ’spectable old
 gentleman as lives there, wot’ll give you lodgings for nothink, and
-never ask for the change—that is, if any genelman he knows interduces
+never ask for the change—that is, if any gentleman he knows interduces
 you. And don’t he know me? Oh, no! Not in the least! By no means.
 Certainly not!”
 
@@ -3213,9 +3213,9 @@ hastily; and was at once ushered into the imposing presence of the
 renowned Mr. Fang.
 
 The office was a front parlour, with a panelled wall. Mr. Fang sat
-behind a bar, at the upper end; and on one side the door was a sort of
-wooden pen in which poor little Oliver was already deposited; trembling
-very much at the awfulness of the scene.
+behind a bar, at the upper end; and on one side of the door was a
+sort of wooden pen in which poor little Oliver was already deposited;
+trembling very much at the awfulness of the scene.
 
 Mr. Fang was a lean, long-backed, stiff-necked, middle-sized man, with
 no great quantity of hair, and what he had, growing on the back and
@@ -3314,7 +3314,7 @@ heard—accidently, of course.
 
 With many interruptions, and repeated insults, Mr. Brownlow contrived
 to state his case; observing that, in the surprise of the moment, he
-had run after the boy because he had saw him running away; and
+had run after the boy because he had seen him running away; and
 expressing his hope that, if the magistrate should believe him,
 although not actually the thief, to be connected with the thieves, he
 would deal as leniently with him as justice would allow.
@@ -5716,7 +5716,7 @@ hastened into the passage in a breathless state.
 Poor dear! I knew we should! I was certain of it. Bless his heart! I
 said so all along.”
 
-Having heard this, the worthy old lady hurried back into the parlour
+Having said this, the worthy old lady hurried back into the parlour
 again; and seating herself on a sofa, burst into tears. The girl, who
 was not quite so susceptible, had run upstairs meanwhile; and now
 returned with a request that Mr. Bumble would follow her immediately:
@@ -6064,10 +6064,10 @@ to be scragged, won’t he?”
 
 “I don’t know what that means,” replied Oliver.
 
-“Something in this way, old feller,” said Charly. As he said it, Master
-Bates caught up an end of his neckerchief; and, holding it erect in the
-air, dropped his head on his shoulder, and jerked a curious sound
-through his teeth; thereby indicating, by a lively pantomimic
+“Something in this way, old feller,” said Charley. As he said it,
+Master Bates caught up an end of his neckerchief; and, holding it erect
+in the air, dropped his head on his shoulder, and jerked a curious
+sound through his teeth; thereby indicating, by a lively pantomimic
 representation, that scragging and hanging were one and the same thing.
 
 “That’s what it means,” said Charley. “Look how he stares, Jack! I
@@ -7301,7 +7301,7 @@ for you’ll have to go out with us again tonight, though not very far
 off.”
 
 Oliver looked at Sikes, in mute and timid wonder; and drawing a stool
-to the fire, sat with his aching head upon his hands, scarecely knowing
+to the fire, sat with his aching head upon his hands, scarcely knowing
 where he was, or what was passing around him.
 
 “Here,” said Toby, as the young Jew placed some fragments of food, and
@@ -8133,7 +8133,7 @@ face, as he drew half-a-crown from his waistcoat-pocket. “I never see
 such a feller as you, Jack; you win everything. Even when we’ve good
 cards, Charley and I can’t make nothing of ’em.”
 
-Either the master or the manner of this remark, which was made very
+Either the matter or the manner of this remark, which was made very
 ruefully, delighted Charley Bates so much, that his consequent shout of
 laughter roused the Jew from his reverie, and induced him to inquire
 what was the matter.
@@ -9360,7 +9360,7 @@ an unwholesome wind went languidly by, with a hollow moaning. Still,
 Oliver lay motionless and insensible on the spot where Sikes had left
 him.
 
-Morning drew on apace. The air become more sharp and piercing, as its
+Morning drew on apace. The air became more sharp and piercing, as its
 first dull hue—the death of night, rather than the birth of
 day—glimmered faintly in the sky. The objects which had looked dim and
 terrible in the darkness, grew more and more defined, and gradually
@@ -9440,7 +9440,7 @@ his superior position in society. But, death, fires, and burglary, make
 all men equals; so Mr. Giles sat with his legs stretched out before the
 kitchen fender, leaning his left arm on the table, while, with his
 right, he illustrated a circumstantial and minute account of the
-robbery, to which his bearers (but especially the cook and housemaid,
+robbery, to which his hearers (but especially the cook and housemaid,
 who were of the party) listened with breathless interest.
 
 “It was about half-past two,” said Mr. Giles, “or I wouldn’t swear that
@@ -11006,7 +11006,7 @@ so long been my comfort and happiness.”
 “Surely there is no danger of anything so dreadful?” said Oliver. “Two
 hours ago, she was quite well.”
 
-“She is very ill now,” rejoined Mrs. Maylies; “and will be worse, I am
+“She is very ill now,” rejoined Mrs. Maylie; “and will be worse, I am
 sure. My dear, dear Rose! Oh, what shall I do without her!”
 
 She gave way to such great grief, that Oliver, suppressing his own
@@ -12149,10 +12149,10 @@ Mr. Bumble might have meant that he had concentrated a whole existence
 of happiness into the short space of eight weeks; but the sigh—there
 was a vast deal of meaning in the sigh.
 
-“I sold myself,” said Mr. Bumble, pursuing the same train of relection,
-“for six teaspoons, a pair of sugar-tongs, and a milk-pot; with a small
-quantity of second-hand furniture, and twenty pound in money. I went
-very reasonable. Cheap, dirt cheap!”
+“I sold myself,” said Mr. Bumble, pursuing the same train of
+reflection, “for six teaspoons, a pair of sugar-tongs, and a milk-pot;
+with a small quantity of second-hand furniture, and twenty pound in
+money. I went very reasonable. Cheap, dirt cheap!”
 
 “Cheap!” cried a shrill voice in Mr. Bumble’s ear: “you would have been
 dear at any price; and dear enough I paid for you, Lord above knows
@@ -13234,7 +13234,7 @@ you tonight.”
 “Then you’ve got lots at home,” retorted Sikes; “and I must have some
 from there.”
 
-“Lots!” cried Fagin, holding up is hands. “I haven’t so much as would—”
+“Lots!” cried Fagin, holding up his hands. “I haven’t so much as would—”
 
 “I don’t know how much you’ve got, and I dare say you hardly know
 yourself, as it would take a pretty long time to count it,” said Sikes;
@@ -13415,7 +13415,7 @@ hand. They parted without more conversation, merely interchanging a
 When the girl got into the open street, she sat down upon a doorstep;
 and seemed, for a few moments, wholly bewildered and unable to pursue
 her way. Suddenly she arose; and hurrying on, in a direction quite
-opposite to that in which Sikes was awaiting her returned, quickened
+opposite to that in which Sikes was awaiting her return, quickened
 her pace, until it gradually resolved into a violent run. After
 completely exhausting herself, she stopped to take breath: and, as if
 suddenly recollecting herself, and deploring her inability to do
@@ -14217,7 +14217,7 @@ assistance of those worthies. And, doubtless, he would, in this first
 outbreak, have carried the intention into effect without a moment’s
 consideration of the consequences, if he had not been restrained, in
 part, by corresponding violence on the side of Mr. Brownlow, who was
-himself of an irascible temperament, and party by such arguments and
+himself of an irascible temperament, and partly by such arguments and
 representations as seemed best calculated to dissuade him from his
 hotbrained purpose.
 
@@ -16179,7 +16179,7 @@ worried by an evil spirit.
 He sat crouching over a cold hearth, wrapped in an old torn coverlet,
 with his face turned towards a wasting candle that stood upon a table
 by his side. His right hand was raised to his lips, and as, absorbed in
-thought, he hit his long black nails, he disclosed among his toothless
+thought, he bit his long black nails, he disclosed among his toothless
 gums a few such fangs as should have been a dog’s or rat’s.
 
 Stretched upon a mattress on the floor, lay Noah Claypole, fast asleep.
@@ -16264,7 +16264,7 @@ all—first seeking out the right folks for the purpose, and then having
 a meeting with ’em in the street to paint our likenesses, describe
 every mark that they might know us by, and the crib where we might be
 most easily taken. Suppose he was to do all this, and besides to blow
-upon a plant we’ve all been in, more or less—of his own fancy; not
+upon a plan we’ve all been in, more or less—of his own fancy; not
 grabbed, trapped, tried, earwigged by the parson and brought to it on
 bread and water,—but of his own fancy; to please his own taste;
 stealing out at nights to find those most interested against us, and
@@ -17776,10 +17776,10 @@ endurance of the most intense suspense.
 
 The same kind friend had, with Mr. Losberne’s assistance, cautiously
 stopped all channels of communication through which they could receive
-intelligence of the dreadful occurrences that so recently taken place.
-“It was quite true,” he said, “that they must know them before long,
-but it might be at a better time than the present, and it could not be
-at a worse.” So, they travelled on in silence: each busied with
+intelligence of the dreadful occurrences that had so recently taken
+place. “It was quite true,” he said, “that they must know them before
+long, but it might be at a better time than the present, and it could
+not be at a worse.” So, they travelled on in silence: each busied with
 reflections on the object which had brought them together: and no one
 disposed to give utterance to the thoughts which crowded upon all.
 
